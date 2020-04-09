@@ -19,4 +19,3 @@ const createFareMultiplier =
 }
 
 const fareDoubler = createFareMultiplier(2);
-}
