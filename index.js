@@ -3,7 +3,7 @@ const returnFirstTwoDrivers =
   return [drivers[0], drivers[1]]
 }
 
-const lastTwoDrivers =
+const returnLastTwoDrivers =
   function(drivers) {
     return drivers.slice(drivers.length - 2) 
   }
