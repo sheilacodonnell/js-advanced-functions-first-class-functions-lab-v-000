@@ -18,5 +18,5 @@ const createFareMultiplier =
   
 }
 
-const fareDoubler = createFareMultiplier(2)
+const fareDoubler = createFareMultiplier(2);
 }
